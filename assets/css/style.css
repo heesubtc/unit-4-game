@@ -1,0 +1,25 @@
+#greencrystal, #redcrystal, #purplecrystal, #whitecrystal {
+    width: 150px;
+}
+
+#top {
+    background-color: rgb(206, 144, 30);
+}
+
+#description {
+    background-color: rgb(250, 235, 218);
+}
+
+#random-number-generator {
+    background-color: rgb(51, 184, 139);
+    font-size: 50px;
+}
+
+#score-board {
+    background-color: aqua;
+}
+
+#scorearea, #displayarea{
+    background-color: rgb(135, 135, 224);
+    font-size: 25px;
+}
