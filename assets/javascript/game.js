@@ -70,7 +70,7 @@ $('#redcrystal').on('click', function() {
 });
 
 $('#purplecrystal').on('click', function() {
-	userTotalScore += userTotalScore + purpleselect;
+	userTotalScore = userTotalScore + purpleselect;
 	$('#current-score').text(userTotalScore);
 	gamePlay();
 });
